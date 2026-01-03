@@ -30,10 +30,13 @@ I'm strengthening my skills in **Data Structures and Algorithms (DSA)** to enhan
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### ✍️ Developer Quote
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohanshinde8080&icon=0&color=0)](https://visitcount.itsvg.in)
+
+👀 **Profile Visitors**  
+![Visitor Count](https://visitcount.itsvg.in/api?id=rohanshinde8080&icon=0&color=6)
+
 
