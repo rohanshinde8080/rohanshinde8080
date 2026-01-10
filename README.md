@@ -32,11 +32,15 @@ I'm strengthening my skills in **Data Structures and Algorithms (DSA)** to enhan
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohanshinde8080&show_icons=true&theme=radical" width="48%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanshinde8080&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshinde8080&theme=radical" width="48%"/>
+</p>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=rohanshinde8080&theme=radical" width="48%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshinde8080&layout=compact&theme=radical" width="40%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshinde8080&layout=compact&theme=radical" width="48%"/>
 
 
 
