@@ -30,12 +30,6 @@ I'm strengthening my skills in **Data Structures and Algorithms (DSA)** to enhan
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanshinde80&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshinde80&layout=compact&theme=radical)
 
 ### ✍️ Developer Quote
 
